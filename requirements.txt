@@ -1,4 +1,8 @@
 
 scikit-learn
 pandas
+matpitliblib
+seaborn
+streamlit
+xgboost
 
