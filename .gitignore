@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter Notebook
+*.ipynb
+
+# Images
+confusion_matrix_*.png
+
+# Test files
+dummy_upload.csv
